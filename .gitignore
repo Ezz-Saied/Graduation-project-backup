@@ -1,0 +1,4 @@
+# OAuth credentials
+users/oauth/credentials.json
+users/oauth/token.pkl
+.env
